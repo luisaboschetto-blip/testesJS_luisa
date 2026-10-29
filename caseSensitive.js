@@ -5,7 +5,7 @@ teste =  a
 
 console.log(teste)
 console.log(A)
-A = 'fiquei louco'
+/*  A = 'fiquei louco'
 teste = A
 console.log(teste)
 
